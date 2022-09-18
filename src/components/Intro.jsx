@@ -22,7 +22,7 @@ export default function Intro() {
         <Grid item xs="auto">
           <Avatar
           alt="Edwin Kung'u"
-          src="public/my_image.jpeg"
+          src="my_image.jpeg"
           sx={{width: 170, height:170}}/>
         </Grid>
       </Grid>

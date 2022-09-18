@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { styled } from '@mui/material/styles';
-import {Typography, Box, Card, Paper, Grid} from '@mui/material';
+import {Typography, Box, Card, Paper, Grid, Button} from '@mui/material';
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#fff',
@@ -21,6 +21,7 @@ export default function Project(){
             <Box>
               <Typography variant='h6' align='center'>Sorting Algorithm</Typography>
               <Typography>As a final year student, I collaborated with a student colleague to come up with a project. We devised a new sorting algorithm 'Merge-Pair Sort' that sorts a list in nlogn time. The implementation of the algorithm was written in Java and some tests in Kotlin.</Typography>
+              <Button>GitHub</Button>
             </Box>
           </Paper>
         </Grid>
