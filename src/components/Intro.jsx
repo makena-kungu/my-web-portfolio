@@ -9,7 +9,7 @@ export default function Intro() {
         direction="row"
         justifyContent="center"
         alignItems="center"
-        spacing={1}
+        spacing={{sx: 1, sm:2,md:4}}
         sx={{p:1}}>
         <Grid item xs>
           <Stack>
