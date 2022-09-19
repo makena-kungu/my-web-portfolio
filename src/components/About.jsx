@@ -16,7 +16,7 @@ const About = () => {
         <Typography>&nbsp;</Typography>
         <Typography component='p'>Since my sofware engineering started in 2018, I have primarily worked on 
         android application development. That has help me gain tremendously. For the 4 years, I have majorly used Java but recently I have used kotlin for around 1 year. The change to kotlin was not that bug a hurdle due to prior Java knowledge.
-         I have extensive knowledge in android sdk, and moreso most crutial libraries including dagger-hilt, ktor, room and reactive programming especially using kotlin coroutines.</Typography>
+         I have extensive knowledge in android sdk, and moreso most crutial libraries including dagger-hilt, ktor and retrofit,room and reactive programming especially using kotlin coroutines.</Typography>
     </Box>
     
     
